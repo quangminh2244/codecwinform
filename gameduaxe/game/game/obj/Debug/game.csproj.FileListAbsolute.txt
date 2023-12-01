@@ -1,0 +1,10 @@
+D:\laptrinhc#\game\game\bin\Debug\game.exe.config
+D:\laptrinhc#\game\game\bin\Debug\game.exe
+D:\laptrinhc#\game\game\bin\Debug\game.pdb
+D:\laptrinhc#\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\laptrinhc#\game\game\obj\Debug\game.Form1.resources
+D:\laptrinhc#\game\game\obj\Debug\game.Properties.Resources.resources
+D:\laptrinhc#\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\laptrinhc#\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\laptrinhc#\game\game\obj\Debug\game.exe
+D:\laptrinhc#\game\game\obj\Debug\game.pdb
